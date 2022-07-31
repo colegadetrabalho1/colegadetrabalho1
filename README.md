@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+### Hello my name is a co-worker, I'm here to help with @rafaelnpf 's videos.
+### Let's learn how to use GitHub!
 
 <!--
 **colegadetrabalho1/colegadetrabalho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
